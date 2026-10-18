@@ -22,9 +22,9 @@ CTX.verify_mode = ssl.CERT_NONE
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0.0.0"
 
 UPSTREAMS = [
-    ("ssili126/tv", "https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"),
-    ("vbskycn/iptv", "https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt"),
     ("iptv-org/cn", "https://iptv-org.github.io/iptv/countries/cn.m3u"),
+    ("iptv-org/hk", "https://iptv-org.github.io/iptv/countries/hk.m3u"),
+    ("iptv-org/tw", "https://iptv-org.github.io/iptv/countries/tw.m3u"),
 ]
 
 
@@ -116,7 +116,7 @@ def main():
 
     out = list(core)
     if extra:
-        out.append("上游备用,#genre#")
+        out.append("上游·iptv-org,#genre#")
         for ch, u in extra:
             out.append("%s,%s" % (ch, u))
 
