@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19 15:35:15",
+  "updated_at": "2026-10-20 03:45:51",
   "repo": "xiaomage006/tvbox-ysc-config",
   "sources": [
     {
@@ -42,7 +42,7 @@
       "name": "讴歌",
       "ok": true,
       "used_url": "(缓存)",
-      "error": "HTTPSConnectionPool(host='xn--dkw0c.v.nxog.top', port=443): Max retries exceeded with url: /m/ (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1016)')))",
+      "error": "HTTPSConnectionPool(host='xn--dkw0c.v.nxog.top', port=443): Max retries exceeded with url: /m/ (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'xn--dkw0c.v.nxog.top'. (_ssl.c:1016)\")))",
       "cached": true
     },
     {
