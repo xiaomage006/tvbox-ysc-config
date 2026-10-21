@@ -148,7 +148,6 @@ CCTV-5+,https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
 CCTV-6 [Geo-blocked],https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 CCTV-9 (576i),https://xykt-fix.github.io/Y77.m3u8
 CCTV-13 HD (1080p),http://go.bkpcp.top/mg/cctv13
-CCTV-15 (1080p),https://xykt-fix.github.io/play/a02e/index.m3u8
 China Weather Channel (576p) [Not 24/7],http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 Chuzhou News Channel (1080p),http://live.cztv.cc:85/live/xwpd.m3u8
 Chuzhou Public Channel (400p),http://live.cztv.cc:85/live/ggpd.m3u8
@@ -161,6 +160,7 @@ Guangzhou TV,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
 Harbin Comprehensive News Channel,https://stream.hrbtv.net/xwzh/playlist.m3u8?_upt=ef41dd531755913594
 Hebi News Channel (480p) [Not 24/7],http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 HomePlus,https://homeplushls.wns.live/hls/stream.m3u8
+Hunan Economy Channel,https://p8.vzan.com/slowlive/415983998730568937/live.m3u8
 Hunan News Channel [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_346.m3u8
 Hunan Politics & Law Channel [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_348.m3u8
 Hunan Womens Channel [Geo-blocked],http://35848.hlsplay.aodianyun.com/guangdianyun_35848/tv_channel_349.m3u8
