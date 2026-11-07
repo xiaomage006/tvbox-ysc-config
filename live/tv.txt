@@ -190,6 +190,8 @@ Xi'an Business Information Channel (180p) [Not 24/7],http://stream2.xiancity.cn/
 Xi'an Silk Road Channel (404p) [Not 24/7],http://stream2.xiancity.cn/xatv5/playlist.m3u8
 Xinjiang TV 1,https://klmysjtzb.rcsxzx.com/hls/klmy2.m3u8
 Xizang TV Tibetan,https://live.vtibet.cn/live/ZYWS20261016.stream.m3u8
+Yichang Sanxia General Channel,https://liveplay.ycrmt.cn/sxgd/zhpd.m3u8
+Yichang Sanxia Travel & Life Channel,https://liveplay.ycrmt.cn/sxgd/lysh.m3u8
 Yunnan Satellite TV (1080p),https://hwapi.yunshicloud.com/8xughf/e0bx15.m3u8
 Zhejiang Children's Channel,rtmp://splay-qukan.cztv.com/live/1792055184232041?auth_key=1886663369-8067bfcb3c684fe98dc7e8ab4b018582-0-3adb461e15e39f56e7a75b9b7f80377d
 Zhejiang Economic Channel,rtmp://splay-qukan.cztv.com/live/1792060094123056?auth_key=1886668326-379148691825438db322fe5c1545be6b-0-ae4e25174445c06889d2da4cf99c48af
